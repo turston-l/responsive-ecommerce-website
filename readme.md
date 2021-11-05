@@ -1,4 +1,4 @@
-## ecommerce website template with HTML, CSS and JavaScriptT step by step.
+## ecommerce website built with HTML, CSS and JavaScript.
 
 You can later convert this template to any frontend framework you know like ReactJS, AngularJS or VueJS and also connect it to a backend like NodeJS, PHP, Python etc.
 
